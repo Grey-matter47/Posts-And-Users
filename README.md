@@ -44,8 +44,8 @@ This is a simple React Native app that fetches posts and user data from the [JSO
 1. Clone the repository:
 
    ```bash
-   git clone <repository_url>
-   cd <project_directory>
+   git clone https://github.com/Grey-matter47/Posts-And-Users
+   cd <name_of_project_directory>
    ```
 
 2. Install dependencies:
@@ -66,8 +66,11 @@ This is a simple React Native app that fetches posts and user data from the [JSO
 ### Screenshots
 
 - HomePage
+<img width="410" alt="Screenshot 2024-12-30 at 6 12 03 PM" src="https://github.com/user-attachments/assets/0e0eff77-1664-4941-8ddc-59b0a691be11" />
 
 - UserProfile
+<img width="417" alt="Screenshot 2024-12-30 at 6 13 22 PM" src="https://github.com/user-attachments/assets/99cc8938-6eaf-4a5b-9df6-6eb6484e1578" />
+
 
 ### API Endpoints
 
