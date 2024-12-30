@@ -1,5 +1,8 @@
 # Posts-And-Users
-Mobile App Developer Assignment Vision and Graphics lab, Dept. of CSE Indian Institute of Technology Delhi
+Mobile App Developer Assignment 
+Vision and Graphics lab, 
+Dept. of CSE 
+Indian Institute of Technology Delhi
 
 # React Native Post Feed & User Profile App
 
