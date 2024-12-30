@@ -145,7 +145,3 @@ expo build:android
 
 # Feel free to modify and extend the app as per your requirements!
 
-
-
-
-````
